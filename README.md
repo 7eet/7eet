@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @7eet
-- 👀 I’m interested in Designing and Developing UI (User Interface)
+- 👀 I’m interested in Designing and Developing UI (User Interface) and building pipeline for continuous deployments.
 - 🌱 I’m currently learning ReactJS
 
 <!---
